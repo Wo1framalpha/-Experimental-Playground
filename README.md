@@ -1,2 +1,2 @@
 # ExperimentalPlayground
-This repository is used to learn how to use github.
+This repository is used to learn the usage of github.
